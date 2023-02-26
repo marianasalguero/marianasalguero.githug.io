@@ -1,0 +1,54 @@
+
+body{  
+background-color:rosybrown;
+}
+
+div{
+    background-color: white;
+    border:1px solid grey ;
+    padding:12px ;
+    width:60% ;
+    margin:0 auto ;
+}
+
+fieldset{
+    margin-bottom:12px ;
+}
+legend{
+    background-color: pink;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+    
+}
+ 
+
+ h2{ font-weight:bold;
+    color:rgb(15, 14, 14);
+    width: 50%;
+    font-size: 200%;
+}
+
+span{
+    font-weight: bold;
+}
+
+button {
+    background-color: pink; 
+    border:  12px;
+    color: rgb(56, 54, 54);
+    padding: 4px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 8px;
+  }
+
+  input#boton  {
+    background-color: pink;
+    border-radius:5px ;
+  }
+
+  
+    
+  
